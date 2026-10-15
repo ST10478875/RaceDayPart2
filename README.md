@@ -10,3 +10,4 @@ ResultsController - Tracks athlete completion times and rankings
 ASP.NET Core Web API 8.0
 Entity Framework Core ORM
 SQL Server Database Integration
+## API Setup & Execution
