@@ -7,3 +7,4 @@ EnrolmentsController - Registers participants into race events
 EventsController - Manages scheduling and venue details.
 ResultsController - Tracks athlete completion times and rankings
 ## Project Architecture
+ASP.NET Core Web API 8.0
