@@ -16,3 +16,4 @@ SQL Server Database Integration
 3. Execute Update-Database command in Package Manager Console.
 4. Press F5 to launch Swagger UI
 ## Submission Notes
+Completed for RaceDay API Part 2 project submission
