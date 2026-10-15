@@ -14,3 +14,4 @@ SQL Server Database Integration
 1. Open solution in Visual Studio 2022.
 2. Update database connection string in appsettings.json.
 3. Execute Update-Database command in Package Manager Console.
+4. Press F5 to launch Swagger UI
